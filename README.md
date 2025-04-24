@@ -1,5 +1,3 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5603AQFuSXK9EcuGXA/profile-displayphoto-shrink_100_100/B56ZSKPOeFH0AU-/0/1737486036173?e=1750896000&v=beta&t=vYTiUs6nyRVIiERgm7GBHRTXe_Q7Orj25jILJEdGEGY)
-
 ### Hi there 👋, This is Nishorgo Sheba
 #### Web Developer
 
