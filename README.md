@@ -2,7 +2,7 @@
 #### Web Developer
 
 
-Aspiring Web Developer | 
+Aspiring Web Developer ||
 I'm passionate about building responsive, user-friendly websites. Currently, I'm learning Python & JavaScript. I enjoy solving real-world problems through clean and efficient code. I'm open to collaboration, learning opportunities and innovative tech projects.
 
 Skills: Pyhon / HTML 
@@ -16,8 +16,6 @@ Skills: Pyhon / HTML
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NishorgoSheba)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishorgoSheba)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishorgoSheba&show_icons=true&count_private=true)  
 
